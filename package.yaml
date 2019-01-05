@@ -74,6 +74,7 @@ library:
   - Ex_3_1
   - Ex_5_3
   - Ex_5_3.III
+  - Ex_6_4
   dependencies: *common-deps
 
 internal-libraries:
