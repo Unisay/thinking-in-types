@@ -1,4 +1,4 @@
-module Ex_1_4 where
+module Ex_1 where
 
 import Preamble
 

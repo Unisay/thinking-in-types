@@ -1,10 +1,10 @@
 {-# OPTIONS_GHC -fno-warn-orphans #-}
 
-module Ex_5_3 where
+module Ex_5 where
 
 import GHC.Show
 import Preamble hiding (show)
-import Ex_5_3.HList
+import Ex_5.HList
 
 
 instance Eq (HList '[]) where HNil == HNil = True

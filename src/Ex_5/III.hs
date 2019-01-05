@@ -1,9 +1,9 @@
 {-# LANGUAGE UndecidableInstances #-}
 {-# OPTIONS_GHC -fno-warn-orphans #-}
 
-module Ex_5_3.III where
+module Ex_5.III where
 
-import Ex_5_3.HList
+import Ex_5.HList
 import Preamble hiding (All, show)
 import GHC.Show
 
